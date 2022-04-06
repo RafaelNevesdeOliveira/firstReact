@@ -1,3 +1,5 @@
-export function App() {
-  return <h1>Hello World React</h1>;
+import './styles/global.scss';
+
+export function App(){
+  return <h1>Hello React</h1>
 }
